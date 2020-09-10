@@ -447,6 +447,7 @@
 			<Item Name="ReadChnCfg.vi" Type="VI" URL="../ReadChnCfg.vi"/>
 			<Item Name="Record Continuous Tags Rev 170821_A.vi" Type="VI" URL="../Record Continuous Tags Rev 170821_A.vi"/>
 			<Item Name="Select_Waveform_By_Name_rev_160122_A.vi" Type="VI" URL="../Select_Waveform_By_Name_rev_160122_A.vi"/>
+			<Item Name="TECATCal.vi" Type="VI" URL="../TECATCal.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
